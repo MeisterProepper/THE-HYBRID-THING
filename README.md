@@ -1,1 +1,3 @@
 # THE-HYBRID-THING
+![PXL_20220808_113726192 PORTRAIT](https://user-images.githubusercontent.com/88040345/183424983-49332764-0388-4c4a-aceb-edbb603d4291.jpg)
+
