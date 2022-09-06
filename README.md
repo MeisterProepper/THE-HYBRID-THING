@@ -10,6 +10,7 @@ At the moment all ICs are soldered directly to the main panel which makes it dif
 ### Main Panel
 
 ### Patch Panel
+![Patchpanel](https://user-images.githubusercontent.com/88040345/188714801-f0358ada-56fd-421a-874a-3511a5673542.png)
 
 ### Poti board
 ![Poti_board2](https://user-images.githubusercontent.com/88040345/188515353-44147fa4-1428-4020-807a-47bc91e063e7.png)
